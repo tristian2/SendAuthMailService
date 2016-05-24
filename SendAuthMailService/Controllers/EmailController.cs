@@ -116,7 +116,7 @@ namespace SendAuthMailService.Controllers
             {
                 //Console. smtpe.InnerException.ToString();
                 //add noLog here sowe can capture message http://www.codeproject.com/Articles/475723/Logging-Setup-in-Minutes-with-NLog
-
+                return NotFound(); //todo
 
             }
             catch (Exception e)
