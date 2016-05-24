@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SendAuthMailService.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SendFromPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">GR+-v6JNVawS</Value>
+    </Setting>
+    <Setting Name="TempFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">c:\authmailtemp</Value>
+    </Setting>
+    <Setting Name="SendFromEmail" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">facilitiesteam@tpr.gov.uk</Value>
+    </Setting>
+    <Setting Name="SendFromName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Facilities Team</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

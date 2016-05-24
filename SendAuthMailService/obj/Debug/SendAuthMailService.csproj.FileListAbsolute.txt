@@ -1,0 +1,153 @@
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\roslyn\csc.exe
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\roslyn\System.Collections.Immutable.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\roslyn\System.Reflection.Metadata.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\roslyn\vbc.exe
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\roslyn\VBCSCompiler.exe
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\roslyn\VBCSCompiler.exe.config
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\SendAuthMailService.dll.config
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\SendAuthMailService.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\SendAuthMailService.pdb
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\Antlr3.Runtime.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\EntityFramework.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\EntityFramework.SqlServer.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\Microsoft.AspNet.Identity.Core.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.Security.Cookies.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.Security.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.Security.Facebook.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.Security.Google.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.Security.OAuth.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.Security.Twitter.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\Microsoft.Web.Infrastructure.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\Newtonsoft.Json.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\Owin.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\System.Net.Http.Formatting.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\System.Web.Helpers.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\System.Web.Http.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\System.Web.Http.Owin.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\System.Web.Http.WebHost.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\System.Web.Mvc.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\System.Web.Optimization.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\System.Web.Razor.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\System.Web.WebPages.Deployment.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\System.Web.WebPages.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\System.Web.WebPages.Razor.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\WebGrease.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\Newtonsoft.Json.xml
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\System.Net.Http.Formatting.xml
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\System.Web.Helpers.xml
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\System.Web.Http.xml
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\System.Web.Http.WebHost.xml
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\System.Web.Mvc.xml
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\System.Web.Optimization.xml
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\System.Web.Razor.xml
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\System.Web.WebPages.xml
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\System.Web.WebPages.Deployment.xml
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\System.Web.WebPages.Razor.xml
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\Antlr3.Runtime.pdb
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\EntityFramework.xml
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\EntityFramework.SqlServer.xml
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\Microsoft.AspNet.Identity.Core.xml
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.xml
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.Security.xml
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.Security.Facebook.xml
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.Security.Cookies.xml
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.Security.OAuth.xml
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.Security.Google.xml
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.Security.Twitter.xml
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\bin\System.Web.Http.Owin.xml
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\obj\Debug\SendAuthMailService.csprojResolveAssemblyReference.cache
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\obj\Debug\SendAuthMailService.dll
+D:\AlvinDocuments\Visual Studio 2015\SendAuthMailService\SendAuthMailService\obj\Debug\SendAuthMailService.pdb
+C:\code\SendAuthMailService\SendAuthMailService\bin\roslyn\csc.exe
+C:\code\SendAuthMailService\SendAuthMailService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\code\SendAuthMailService\SendAuthMailService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\code\SendAuthMailService\SendAuthMailService\bin\roslyn\System.Collections.Immutable.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\roslyn\System.Reflection.Metadata.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\roslyn\vbc.exe
+C:\code\SendAuthMailService\SendAuthMailService\bin\roslyn\VBCSCompiler.exe
+C:\code\SendAuthMailService\SendAuthMailService\bin\roslyn\VBCSCompiler.exe.config
+C:\code\SendAuthMailService\SendAuthMailService\bin\SendAuthMailService.dll.config
+C:\code\SendAuthMailService\SendAuthMailService\bin\SendAuthMailService.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\SendAuthMailService.pdb
+C:\code\SendAuthMailService\SendAuthMailService\bin\Antlr3.Runtime.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\EntityFramework.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\EntityFramework.SqlServer.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.Security.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.Security.Google.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\Microsoft.Web.Infrastructure.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\Newtonsoft.Json.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\Owin.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\System.Net.Http.Formatting.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\System.Web.Helpers.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\System.Web.Http.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\System.Web.Http.Owin.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\System.Web.Http.WebHost.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\System.Web.Mvc.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\System.Web.Optimization.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\System.Web.Razor.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\System.Web.WebPages.Deployment.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\System.Web.WebPages.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\System.Web.WebPages.Razor.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\WebGrease.dll
+C:\code\SendAuthMailService\SendAuthMailService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\code\SendAuthMailService\SendAuthMailService\bin\Newtonsoft.Json.xml
+C:\code\SendAuthMailService\SendAuthMailService\bin\System.Net.Http.Formatting.xml
+C:\code\SendAuthMailService\SendAuthMailService\bin\System.Web.Helpers.xml
+C:\code\SendAuthMailService\SendAuthMailService\bin\System.Web.Http.xml
+C:\code\SendAuthMailService\SendAuthMailService\bin\System.Web.Http.WebHost.xml
+C:\code\SendAuthMailService\SendAuthMailService\bin\System.Web.Mvc.xml
+C:\code\SendAuthMailService\SendAuthMailService\bin\System.Web.Optimization.xml
+C:\code\SendAuthMailService\SendAuthMailService\bin\System.Web.Razor.xml
+C:\code\SendAuthMailService\SendAuthMailService\bin\System.Web.WebPages.xml
+C:\code\SendAuthMailService\SendAuthMailService\bin\System.Web.WebPages.Deployment.xml
+C:\code\SendAuthMailService\SendAuthMailService\bin\System.Web.WebPages.Razor.xml
+C:\code\SendAuthMailService\SendAuthMailService\bin\Antlr3.Runtime.pdb
+C:\code\SendAuthMailService\SendAuthMailService\bin\EntityFramework.xml
+C:\code\SendAuthMailService\SendAuthMailService\bin\EntityFramework.SqlServer.xml
+C:\code\SendAuthMailService\SendAuthMailService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\code\SendAuthMailService\SendAuthMailService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\code\SendAuthMailService\SendAuthMailService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\code\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.xml
+C:\code\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\code\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.Security.xml
+C:\code\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\code\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\code\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\code\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.Security.Google.xml
+C:\code\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\code\SendAuthMailService\SendAuthMailService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\code\SendAuthMailService\SendAuthMailService\bin\System.Web.Http.Owin.xml
+C:\code\SendAuthMailService\SendAuthMailService\obj\Debug\SendAuthMailService.dll
+C:\code\SendAuthMailService\SendAuthMailService\obj\Debug\SendAuthMailService.pdb
